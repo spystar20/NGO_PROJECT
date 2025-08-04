@@ -1,0 +1,8 @@
+| Purpose     | Color Name     | Hex Code  | Notes                                 |
+| ----------- | -------------- | --------- | ------------------------------------- |
+| Primary     | Deep Blue      | `#2C3E50` | Trust, reliability, professional look |
+| Accent      | Emerald Green  | `#2ECC71` | Hope, growth, fresh, nature           |
+| Background  | Light Gray     | `#F4F6F7` | Clean background to reduce strain     |
+| Text Color  | Charcoal Black | `#2D2D2D` | Readable and elegant                  |
+| CTA Buttons | Warm Yellow    | `#F1C40F` | Optimism, donation appeal, highlights |
+| Hover CTA   | Golden Orange  | `#E67E22` | Encourages action, stands out         |
