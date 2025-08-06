@@ -13,8 +13,8 @@ const Footer = () => {
     </div>
     </div>
     <span className='w-full h-0.5 flex bg-[#FDEBD0]'></span>
-    <div className='flex justify-between items-center px-10'>
-        <h1 className='font-[Kalam] font-light'>Copyright ©2025 created by SANTOSHI. All rights reserved.</h1>
+    <div className='flex flex-col-reverse gap-3 md:flex-row justify-between items-center px-10'>
+        <h1 className='font-[Kalam] font-light text-center'>Copyright ©2025 created by SANTOSHI. All rights reserved.</h1>
          <div className='text-2xl flex items-center gap-4'>
 <FaFacebookF className='hover:scale-110 cursor-pointer scale-100'/>
 <FaInstagram className='hover:scale-110 cursor-pointer scale-100'/>
